@@ -1,6 +1,7 @@
 # HW6
-Project functional specification
-This homework should be done as a group. You will write a functional specification for your project. This should include the following:
+This homework is about creating a project functional specification. The homework should be done as a group.
+
+The functional specification should include the following:
 
  - Background. What problem you're trying to solve. Why it's important. How your users will benefit.
  - Users. Who will use your system? What level of computer experience do they require? What domain knowledge must they have?

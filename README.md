@@ -8,3 +8,6 @@ The functional specification should include the following:
  - Use cases. How will users interact with the system and how will the system respond. You likely want to have "mock ups" of screen shots and indicate how users will interact.
  
  The functional specification is typically 3-5 pages.
+
+## Instructor grade
+

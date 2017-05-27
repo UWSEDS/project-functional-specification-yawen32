@@ -10,4 +10,4 @@ The functional specification should include the following:
  The functional specification is typically 3-5 pages.
 
 ## Instructor grade
-
+5/5
